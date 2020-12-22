@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1608637540 source:/home/radiant/Documents/C_Projects/strings/rev.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1608636876 source:/home/radiant/Documents/C_Projects/strings/main.c
+	<stdio.h>
+	<stdlib.h>
+
